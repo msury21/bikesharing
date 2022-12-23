@@ -1,1 +1,10 @@
 # bikesharing
+
+## Overview
+The purpose of this analysis is to analyze the performance of Citibike in New York City for an expansion to Des Moines.
+
+## Results
+The [Tableau story](https://public.tableau.com/app/profile/meena6020/viz/Deliverable23/Story1?publish=yes) shows three tabs - Checkout Times and Trips by Weekday per Hour, Checkout Times and Trips by Weekday per Hour separated by gender, and User Trips by Gender by Weekday (which is also separated by type of user). The first tab shows that most bikes are checked out for 5 minutes and that the most popular start time is 6pm on Thursday. The second tab shows that men handily outweigh all other genders as the number one users of Citibike. Men and women have similar spread on checkout times and in start time. Unknown gendered people have their most common checkout times anywhere from 10-30 minutes long, but there are very few of them. The last tab also shows that subscribers are the most common type of users. For men and women, the user trips by weekday are very similar (including for customer and subscriber). For unknown gendered people, more ride as customers rather than subscribers.
+
+## Summary
+Most people take short trips (under 20 minutes) by Citibike. On the weekdays, most trips are during the heading-to and coming-from work/school times, and on the weekends trips are fairly even from 10am to 6pm. Most users are men and subscribers. Another visualization that would be helpful would be checking the separation by age for Checkout Times and Trips by Weekday per Hour. One other interesting visualization would by starting point separated by age/gender - particularly age, to decipher truly whether workplaces/schools are the places most frequently travelled to/from. Those visualizations would help to figure out the best places to put Citibike stations in Des Moines, and are most easily translatable from New York City to Des Moines.
